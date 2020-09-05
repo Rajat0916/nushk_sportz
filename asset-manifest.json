@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nushk_sportz/static/css/main.54ba8352.chunk.css",
+    "main.js": "/nushk_sportz/static/js/main.15897c9b.chunk.js",
+    "main.js.map": "/nushk_sportz/static/js/main.15897c9b.chunk.js.map",
+    "runtime-main.js": "/nushk_sportz/static/js/runtime-main.c93e6294.js",
+    "runtime-main.js.map": "/nushk_sportz/static/js/runtime-main.c93e6294.js.map",
+    "static/js/2.335cb862.chunk.js": "/nushk_sportz/static/js/2.335cb862.chunk.js",
+    "static/js/2.335cb862.chunk.js.map": "/nushk_sportz/static/js/2.335cb862.chunk.js.map",
+    "index.html": "/nushk_sportz/index.html",
+    "precache-manifest.39462090ba7c68b1b41f1257adf991af.js": "/nushk_sportz/precache-manifest.39462090ba7c68b1b41f1257adf991af.js",
+    "service-worker.js": "/nushk_sportz/service-worker.js",
+    "static/css/main.54ba8352.chunk.css.map": "/nushk_sportz/static/css/main.54ba8352.chunk.css.map",
+    "static/js/2.335cb862.chunk.js.LICENSE.txt": "/nushk_sportz/static/js/2.335cb862.chunk.js.LICENSE.txt",
+    "static/media/Nushk_logo.PNG": "/nushk_sportz/static/media/Nushk_logo.9043bfbb.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c93e6294.js",
+    "static/js/2.335cb862.chunk.js",
+    "static/css/main.54ba8352.chunk.css",
+    "static/js/main.15897c9b.chunk.js"
+  ]
+}
